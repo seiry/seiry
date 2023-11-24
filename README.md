@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![当心Snake!](https://github.com/imkratos/imkratos/blob/output/github-snake.svg)
+![当心Snake!](https://github.com/seiry/seiry/blob/output/github-snake.svg)
